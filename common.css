@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  color: lavender;
+}
+body{
+  background: linear-gradient(90deg, #ffa04d 0%, #000000 100%);
+}
+a{
+  display: block;
+  text-decoration: none;
+  text-align: center;
+  transition: 4s background-color;
+}
+a:hover{
+  background-color: black;
+}
