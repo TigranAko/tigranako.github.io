@@ -1,0 +1,7 @@
+.footer{
+  display: flex;
+  background: linear-gradient(0deg, #ffa04d 0%, #000000 100%);
+  justify-content: space-between;
+  padding: 0.5em;
+}
+
