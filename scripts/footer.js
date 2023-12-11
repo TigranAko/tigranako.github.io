@@ -10,7 +10,7 @@ footer.innerHTML = `        <div class="rights">
         </div>
         <div>
             <p>
-                <a href="https://t.me/@pevadze">Котакты</a>
+                <a href="https://t.me/TigranAko">Котакты</a>
             </p>
             <p>
                 <a href="https://t.me/TigranAko">Работа</a>
